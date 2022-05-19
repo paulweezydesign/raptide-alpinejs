@@ -1,0 +1,12 @@
+'404': لم يتم العثور على هذه الصفحة.
+hello: 'مرحبا، '
+routing: عرض عملي للتوجيه باستخدام Pinecone Router ، باستخدام $router ، والترخيص / إعادة التوجيه.
+about: عن هذا القالب
+headline: قالب انطلاق لAlpine.js
+home: الصفحة الرئيسية
+toggle:
+    dark: بدل الوضع الداكن
+    language: بدل اللغات
+tip: اكتب 'Home' للعودة إلى الصفحة الرئيسية.
+name-entry: ما اسمك؟
+isRTL: true

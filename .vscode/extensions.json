@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"lokalise.i18n-ally",
+		"voorjaar.windicss-intellisense",
+		"adrianwilczynski.alpine-js-intellisense",
+		"dbaeumer.vscode-eslint",
+		"antfu.iconify",
+		"antfu.vite"
+	]
+}
